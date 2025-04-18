@@ -1,0 +1,20 @@
+site_name: Wilmington VA Data Access Portal
+site_url: https://Del-INBRE-VA-DataSci.github.io/va-data-access-portal/
+repo_url: https://github.com/Del-INBRE-VA-DataSci/va-data-access-portal
+edit_uri: edit/main/_docs_src/src
+site_description: A guide for accessing and sharing data with the VA Wilmington Healthcare System.
+site_author: Amelia O. Harrison
+nav:
+  - Overview: index.md
+  - Engaging in Research: research_va.md
+  - Accessing VA Data:
+      - Ethics: ethics.md
+      - FAQs: FAQs.md
+      - Data Use Case Examples: pathways.md
+theme:
+  name: readthedocs
+  custom_dir: custom_theme
+markdown_extensions:
+  - meta
+docs_dir: src
+site_dir: ../_docs
