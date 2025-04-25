@@ -55,11 +55,7 @@ To access patient health information and other data, which can be used in IRB ap
 - Employees with access to the VA intranet may use the [VA Data Portal](http://www.vhadataportal.med.va.gov/Home.aspx) and [VINCI program](http://www.hsrd.research.va.gov/for_researchers/vinci/).
 - The [Data Access Request Tracker (DART) application](https://vaww.vhadataportal.med.va.gov/Data-Access/Data-Access-Overview) is an online tool used by National Data Systems (NDS) and others for providing data access approvals for Preparatory to Research Activities and IRB/R&D Approved Research.
 
-TODO: links in IRB section
-
 ### Can data containing PHI/PII be disclosed outside of the VA for research purposes under an IRB/Privacy Board approved waiver of HIPAA authorization?
-
-(TODO: links in this section are to files on Suzanne's computer)
 
 Maybe.
 

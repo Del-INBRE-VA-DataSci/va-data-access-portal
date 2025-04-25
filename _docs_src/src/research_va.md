@@ -4,7 +4,7 @@ description: Write your description here.
 
 # Engaging in VA Research
 
-TODO: Intro blurb
+Research partnerships to improve and enhance the health and healthcare of Veterans is a priority for the Wilmington VAMC. We welcome and encourage partnerships with VA intramural researchers and with researchers from outside of the VA.
 
 ## **Collaborate** with a VA researcher or VA health services
 
@@ -21,10 +21,7 @@ Types of appointments:
 - **University-VA joint appointment (paid and unpaid)** – will allow you to apply for VA or extramural funding (such as NIH, DOD, NSF, etc.) and conduct your research at or in partnership with the VA.
 - **Intergovernment Personnel Act (IPA) assignment** – a temporary assignment made for people who work outside the VA to be paid with VA research funds. For example, a person (not the PI) with a university appointment might be approved and funded to perform VA research, but they do not want to give up their university appointment.
 - **Paid positions**, visit the VA Office of Research and Development website for a list of open [Research positions](https://www.research.va.gov/about/employment.cfm) and/or search [USAJobs.gov](https://www.usajobs.gov/).
-- **VA [Fellowships]**(https://www.research.va.gov/about/fellowships.cfm)
-
-Contact the Associate Chief of Staff (ACOS-R) for Research, Wilmington VA
-Send email direct to VHAWIMResearchAdmin@va.gov. Include:  Name  |   Title  |  Phone Number  | Research foci | Reason for email
+- **VA [Fellowships](https://www.research.va.gov/about/fellowships.cfm)**
 
 ## **Contact the Chief of Staff (ACOS-R)** for Research, Wilmington VA
 
