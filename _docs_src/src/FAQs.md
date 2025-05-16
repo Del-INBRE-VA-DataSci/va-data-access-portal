@@ -17,7 +17,7 @@ VA has a huge variety of data. Some data are much easier to use for research tha
 
 ### What other resources are available for learning about VA data?
 
-[VIReC Cyberseminars](https://www.hsrd.research.va.gov/cyberseminars/) are a great resource for learning about VA data. We host several cyberseminar series. Each has a unique focus and covers a range of topics that provide guidance and expert discussion on VA databases and information systems or on key issues related to using VA data.
+[VIReC Cyberseminars](https://www.hsrd.research.va.gov/cyberseminars/) are a great resource for learning about VA data. VIReC hosts several cyberseminar series. Each has a unique focus and covers a range of topics that provide guidance and expert discussion on VA databases and information systems or on key issues related to using VA data.
 
 ### What [data sources](https://vaww.vhadataportal.med.va.gov/Data-Sources/Data-Sources-Overview) are available?
 
@@ -41,25 +41,21 @@ For VA employees (including [WOCs](./research_va.md)):
 
 To access data directly as a **non-VA employee**, you can:
 
-- [Collaborate](https://www.hsrd.research.va.gov/for_researchers/directory/) with a VA researcher/health services employee (e.g., physician)
-- Request a [Without Compensation (WOC) appointment](./research_va.md) with the local VA Research Program
-- Send email direct to [VHAWIMResearchAdmin@va.gov](mailto:VHAWIMResearchAdmin@va.gov).  Be sure to include your:
-  - Name
-  - Title
-  - Phone Number
-  - Research foci
-  - Reason for email
+- [Collaborate](https://www.hsrd.research.va.gov/for_researchers/directory/) with a VA researcher/health services employee (e.g., physician).
+- Request a [Without Compensation (WOC) appointment](./research_va.md) with the local VA Research Program.
+- Send email direct to [VHAWIMResearchAdmin@va.gov](mailto:VHAWIMResearchAdmin@va.gov).  Be sure to include your name, title, phone number, research foci, and the reason for your email.
 - Submit a request to the [VHA-approved vendor](https://www.mdclone.com/?s=veterans) for access to synthetic versions of VA healthcare data.
 
 To access patient health information and other data, which can be used in IRB approved studies:
-- Employees with access to the VA intranet may use the [VA Data Portal](http://www.vhadataportal.med.va.gov/Home.aspx) and [VINCI program](http://www.hsrd.research.va.gov/for_researchers/vinci/).
-- The [Data Access Request Tracker (DART) application](https://vaww.vhadataportal.med.va.gov/Data-Access/Data-Access-Overview) is an online tool used by National Data Systems (NDS) and others for providing data access approvals for Preparatory to Research Activities and IRB/R&D Approved Research.
+
+- Employees with access to the VA intranet may use the [VA Data Portal](https://www.data.va.gov/) and [VINCI program](http://www.hsrd.research.va.gov/for_researchers/vinci/).
+- The [Data Access Request Tracker (DART) application](https://vaww.vhadataportal.med.va.gov/) is an online tool used by National Data Systems (NDS) and others for providing data access approvals for Preparatory to Research Activities and IRB/R&D Approved Research.
 
 ### Can data containing PHI/PII be disclosed outside of the VA for research purposes under an IRB/Privacy Board approved waiver of HIPAA authorization?
 
 Maybe.
 
-[Cooperative Research and Development Agreement](). A Cooperative Research and Development Agreement (CRADA) is a written agreement between VA and one or more non-Federal parties to work together on a research project. CRADAs focus on the intellectual rights of a study (e.g., a drug patent). If a research study is being conducted under a CRADA, a DUA is not required to share VA sensitive information, as the protections of a DUA are built into the VA CRADA templates used by research staff. See [VHA Directive 1206](), Use of a Cooperative Research and Development Agreement (CRADA), dated June 19, 2018.
+[Cooperative Research and Development Agreement](https://www.research.va.gov/programs/tech_transfer/model_agreements/). A Cooperative Research and Development Agreement (CRADA) is a written agreement between VA and one or more non-Federal parties to work together on a research project. CRADAs focus on the intellectual rights of a study (e.g., a drug patent). If a research study is being conducted under a CRADA, a DUA is not required to share VA sensitive information, as the protections of a DUA are built into the VA CRADA templates used by research staff. See [VHA Directive 1206](https://www.va.gov/vhapublications/publications.cfm?pub=1), Use of a Cooperative Research and Development Agreement (CRADA), dated June 19, 2018.
 
 ### How is the data transferred?
 
@@ -72,6 +68,7 @@ VA data may be able to be transferred using a CD ROM; it cannot be transferred o
 ### What are the approved methods for transferring data externally/outside the VA?
 
 For sensitive Data:
+
 1. VA Issued, Encrypted (FIPS 140-2 Validated) Thumb Drive
 2. VA Issued, Encrypted (FIPS 140-2 Validated) External Hard Drive
 3. Encrypted (FIPS 140-2 Validated) CD/DVD
